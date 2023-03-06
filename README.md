@@ -1,4 +1,4 @@
-# finalCapstone
+# Warehouse Management GUI
 
 A warehouse management application written in Python with Tkinter
 
