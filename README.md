@@ -6,11 +6,11 @@ The program reads a file named "inventory.txt" which should be in the same direc
 
 ## Dependencies
 
-Python 3.x
-tkinter
-ttk
-messagebox
-simpledialog
+- Python 3.x
+- tkinter
+- ttk
+- messagebox
+- simpledialog
 
 ![GUI_screenshot](https://user-images.githubusercontent.com/112647717/212357277-a4a89af8-91b2-4542-945a-8ea5878391fe.jpg)
 
